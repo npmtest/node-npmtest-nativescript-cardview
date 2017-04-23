@@ -1,0 +1,4 @@
+npmtest-nativescript-cardview@0.0.1 /home/travis/build/npmtest/node-npmtest-nativescript-cardview
+└─┬ UNMET PEER DEPENDENCY tns-core-modules@2.5.2
+  └── tns-core-modules-widgets@2.5.0 
+
